@@ -1,0 +1,5 @@
+{
+  "error": "no such element",
+  "message": "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//button[@class='consent-button agree-consent--all']\"}\n  (Session info: chrome=122.0.6261.94)",
+  "stacktrace": "\tGetHandleVerifier [0x00007FF6968BAD22+56930]\n\t(No symbol) [0x00007FF69682F622]\n\t(No symbol) [0x00007FF6966E42E5]\n\t(No symbol) [0x00007FF6967298ED]\n\t(No symbol) [0x00007FF696729A2C]\n\t(No symbol) [0x00007FF69676A967]\n\t(No symbol) [0x00007FF69674BCDF]\n\t(No symbol) [0x00007FF6967681E2]\n\t(No symbol) [0x00007FF69674BA43]\n\t(No symbol) [0x00007FF69671D438]\n\t(No symbol) [0x00007FF69671E4D1]\n\tGetHandleVerifier [0x00007FF696C36AAD+3709933]\n\tGetHandleVerifier [0x00007FF696C8FFED+4075821]\n\tGetHandleVerifier [0x00007FF696C8817F+4043455]\n\tGetHandleVerifier [0x00007FF696959756+706710]\n\t(No symbol) [0x00007FF69683B8FF]\n\t(No symbol) [0x00007FF696836AE4]\n\t(No symbol) [0x00007FF696836C3C]\n\t(No symbol) [0x00007FF6968268F4]\n\tBaseThreadInitThunk [0x00007FF8FD777344+20]\n\tRtlUserThreadStart [0x00007FF8FE0626B1+33]\n"
+}

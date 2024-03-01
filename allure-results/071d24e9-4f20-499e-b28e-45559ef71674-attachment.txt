@@ -1,0 +1,5 @@
+{
+  "error": "no such element",
+  "message": "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//div[@class = 'text-day__item--text current-date']\"}\n  (Session info: chrome=121.0.6167.189)",
+  "stacktrace": "\tGetHandleVerifier [0x00007FF7507D7012+3522402]\n\t(No symbol) [0x00007FF7503F8352]\n\t(No symbol) [0x00007FF7502A5ABB]\n\t(No symbol) [0x00007FF7502EBF0E]\n\t(No symbol) [0x00007FF7502EC08C]\n\t(No symbol) [0x00007FF75032E437]\n\t(No symbol) [0x00007FF75030F09F]\n\t(No symbol) [0x00007FF75032BDA3]\n\t(No symbol) [0x00007FF75030EE03]\n\t(No symbol) [0x00007FF7502DF4D4]\n\t(No symbol) [0x00007FF7502E05F1]\n\tGetHandleVerifier [0x00007FF750809B9D+3730157]\n\tGetHandleVerifier [0x00007FF75085F02D+4079485]\n\tGetHandleVerifier [0x00007FF7508575D3+4048163]\n\tGetHandleVerifier [0x00007FF75052A649+718233]\n\t(No symbol) [0x00007FF750404A3F]\n\t(No symbol) [0x00007FF7503FFA94]\n\t(No symbol) [0x00007FF7503FFBC2]\n\t(No symbol) [0x00007FF7503EF2E4]\n\tBaseThreadInitThunk [0x00007FF8FD777344+20]\n\tRtlUserThreadStart [0x00007FF8FE0626B1+33]\n"
+}

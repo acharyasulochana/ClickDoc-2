@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "//app-search-dropdown[@class = 'ng-star-inserted']"
+}

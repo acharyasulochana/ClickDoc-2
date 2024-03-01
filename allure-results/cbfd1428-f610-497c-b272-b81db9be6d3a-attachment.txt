@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "//div[@class = 'search-card-physician-name ng-star-inserted']/span/span[text() ='${doctorName}']"
+}

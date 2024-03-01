@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "//input[@data-web-test = 'lp-search-input']"
+}

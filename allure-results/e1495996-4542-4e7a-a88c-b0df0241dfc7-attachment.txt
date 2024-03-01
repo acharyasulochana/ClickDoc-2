@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "//div[@class = 'text-day-hour__item ng-star-inserted']/div[@class= 'text-day-hour__text-startTime']"
+}

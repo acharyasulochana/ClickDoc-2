@@ -1,0 +1,5 @@
+{
+  "error": "no such element",
+  "message": "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//div[@class = 'search-card-physician-name ng-star-inserted']/span/span[text() ='Peter Test']\"}\n  (Session info: chrome=121.0.6167.187)",
+  "stacktrace": "\tGetHandleVerifier [0x00007FF6C8957012+3522402]\n\t(No symbol) [0x00007FF6C8578352]\n\t(No symbol) [0x00007FF6C8425ABB]\n\t(No symbol) [0x00007FF6C846BF0E]\n\t(No symbol) [0x00007FF6C846C08C]\n\t(No symbol) [0x00007FF6C84AE437]\n\t(No symbol) [0x00007FF6C848F09F]\n\t(No symbol) [0x00007FF6C84ABDA3]\n\t(No symbol) [0x00007FF6C848EE03]\n\t(No symbol) [0x00007FF6C845F4D4]\n\t(No symbol) [0x00007FF6C84605F1]\n\tGetHandleVerifier [0x00007FF6C8989B9D+3730157]\n\tGetHandleVerifier [0x00007FF6C89DF02D+4079485]\n\tGetHandleVerifier [0x00007FF6C89D75D3+4048163]\n\tGetHandleVerifier [0x00007FF6C86AA649+718233]\n\t(No symbol) [0x00007FF6C8584A3F]\n\t(No symbol) [0x00007FF6C857FA94]\n\t(No symbol) [0x00007FF6C857FBC2]\n\t(No symbol) [0x00007FF6C856F2E4]\n\tBaseThreadInitThunk [0x00007FF8FD777344+20]\n\tRtlUserThreadStart [0x00007FF8FE0626B1+33]\n"
+}
